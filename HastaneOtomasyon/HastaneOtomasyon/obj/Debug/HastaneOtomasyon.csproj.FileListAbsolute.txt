@@ -1,0 +1,17 @@
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form1.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form2.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form3.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form4.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form5.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form6.resources
+C:\Users\umutk\OneDrive\Masaüstü\c#final\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form7.resources
